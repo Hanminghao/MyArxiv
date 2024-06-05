@@ -1,8 +1,8 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_model = ["CLIP", "Transformer"];
-let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised", "Pathology", "Genomic", "Survival", "WSI", "Whole slide", "survival", "cancer", "histology", "multimode"];
+let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised", "Pathology", "Genomic", "Survival", "WSI", "Whole slide", "survival", "cancer", "histology", "multimode","casual","fusion","Hierarchical"];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = ["Richard J. Chen", "Faisal Mahmood", "Hao Chen", "Liansheng Wang", "Lihua Zhang", "Dingkang Yang", "Lequan Yu"];
+let authors_array = ["Richard J. Chen", "Faisal Mahmood", "Hao Chen", "Liansheng Wang", "Lihua Zhang", "Dingkang Yang", "Lequan Yu", "Pei Liu", "Wenhao Tang","Yong Xia","Yan Wang"];
 
 let conferences = [
     // AI
